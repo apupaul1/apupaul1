@@ -65,9 +65,7 @@ A university research presentation on how CIA Triad enhances information securit
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(if available)*
+- 📧 Email: apupaul988@gmail.com
 
 ---
 
