@@ -52,7 +52,7 @@ With a growing curiosity for building complete applications, I learned **React, 
 
 #### 🎯 HobbySync
 🧑‍🤝‍🧑 **Local Hobby Group Organizer**  
-Responsive platform for hobby communities with dark/light mode, Firebase Auth, MongoDB, and private routes.
+HobbyHub is a dynamic single-page web application designed to bring people together based on shared interests. Users can discover, create, and manage hobby-based groups such as hiking, painting, reading clubs, and more.Responsive platform for hobby communities with dark/light mode, Firebase Auth, MongoDB, and private routes.
 
 📷 *Preview GIF:*  
 ![HobbyHub](https://raw.githubusercontent.com/yourusername/HobbyHub/main/demo.gif) <!-- Replace with actual path -->
@@ -62,8 +62,7 @@ Responsive platform for hobby communities with dark/light mode, Firebase Auth, M
 ---
 
 #### 💼 BookNest
-**Secure Job Tracker App**  
-Authentication system with dynamic listings using Firebase and JSON.
+Virtual Bookshelf is a web application designed for book lovers to digitally catalog their reading journey. Users can add books they’ve read, are reading, or want to read, write and share reviews, upvote popular books, and track their reading progress with visual charts. The app promotes discovery, organization, and motivation in personal reading.
 
 📷 *Preview GIF:*  
 ![JobTrack](https://raw.githubusercontent.com/yourusername/JobTrack/main/demo.gif) <!-- Replace with actual path -->
@@ -73,8 +72,7 @@ Authentication system with dynamic listings using Firebase and JSON.
 ---
 
 #### 💼 DailyMart
-**Secure Job Tracker App**  
-Authentication system with dynamic listings using Firebase and JSON.
+A full-stack web application to help users view, track, and compare daily prices of essential items across local markets. Vendors update prices, users track market trends, and admins manage the system.
 
 📷 *Preview GIF:*  
 ![JobTrack](https://raw.githubusercontent.com/yourusername/JobTrack/main/demo.gif) <!-- Replace with actual path -->
