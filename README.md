@@ -98,7 +98,7 @@ A full-stack web application to help users view, track, and compare daily prices
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square)](apupaul.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/apupaul1)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apu-paul/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/apupaul1/)
 
 
 ---
