@@ -50,25 +50,36 @@ With a growing curiosity for building complete applications, I learned **React, 
 
 ### 📌 Featured Projects
 
-#### 🎯 HobbyHub
+#### 🎯 HobbySync
 🧑‍🤝‍🧑 **Local Hobby Group Organizer**  
 Responsive platform for hobby communities with dark/light mode, Firebase Auth, MongoDB, and private routes.
 
 📷 *Preview GIF:*  
 ![HobbyHub](https://raw.githubusercontent.com/yourusername/HobbyHub/main/demo.gif) <!-- Replace with actual path -->
 
-🔗 [Live Demo](https://yourlink.com) | [Repo](https://github.com/yourusername/HobbyHub)
+🔗 [Live Demo](https://hobby-sync-app.web.app/) | [Repo](https://github.com/apupaul1/hobby-sync)
 
 ---
 
-#### 💼 JobTrack
+#### 💼 BookNest
 **Secure Job Tracker App**  
 Authentication system with dynamic listings using Firebase and JSON.
 
 📷 *Preview GIF:*  
 ![JobTrack](https://raw.githubusercontent.com/yourusername/JobTrack/main/demo.gif) <!-- Replace with actual path -->
 
-🔗 [Live Demo](https://yourlink.com) | [Repo](https://github.com/yourusername/JobTrack)
+🔗 [Live Demo](https://book-nest-acf0b.web.app) | [Repo](https://github.com/apupaul1/book-nest)
+
+---
+
+#### 💼 DailyMart
+**Secure Job Tracker App**  
+Authentication system with dynamic listings using Firebase and JSON.
+
+📷 *Preview GIF:*  
+![JobTrack](https://raw.githubusercontent.com/yourusername/JobTrack/main/demo.gif) <!-- Replace with actual path -->
+
+🔗 [Live Demo](https://dailymart-c81a5.web.app) | [Repo](https://github.com/apupaul1/daily-mart)
 
 ---
 
